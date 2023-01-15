@@ -3,7 +3,7 @@ package nova2;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("move");
+		System.out.println("move on");
 
 	}
 
